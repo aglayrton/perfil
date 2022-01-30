@@ -1,9 +1,9 @@
 ### Hi! Sou Julião 👋
 
-- 🔭 Hoje trabalho com fullstack Java ...
+- 🔭 Hoje trabalho como Coordenador e Professor Técnico...
 - 🌱 Estou estudando React ...
 - 📫 Fale comigo: aglayrtonjuliao@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Atuante na área de desenvolvimento de sistemas
 <div>
   <a href="https://github.com/aglayrton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aglayrton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
